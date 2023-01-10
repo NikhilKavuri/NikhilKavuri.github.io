@@ -1,0 +1,15 @@
+body{
+background: linear-gradient(to right, pink,violet);
+height: 100vh;
+}
+#Profilepic{
+    width: 5cm;
+    height: 5cm;
+    margin-left:2cm;
+}
+.name{
+    font-weight: 700;
+    font-family: 'Arial Narrow',;
+    margin-bottom: 3cm;
+    font-size: xx-large;
+}
