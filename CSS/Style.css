@@ -13,3 +13,19 @@ height: 100vh;
     margin-bottom: 3cm;
     font-size: xx-large;
 }
+#Info{
+    margin-top: 0%;
+    margin-bottom: 100%;
+    margin-left: 0cm;
+    background-color: blueviolet;
+    background-position-x: 0cm;
+    background-position-y: 5cm;
+    height:inherit;
+    width: 20%;
+}
+.about{
+    font-size: xx-large;
+    text-decoration: underline;
+    text-indent: 2cm;
+
+}
