@@ -3786,14 +3786,20 @@ input, select, textarea {
 		.html{
 			width: 2.5cm;
 			height: 2.5cm;
+			aspect-ratio: 3/2;
+			object-fit: contain;
 		}
 		.css{
 			margin-top: 0;
 			width: 3cm;
 			height: 3cm;
+			aspect-ratio: 3/2;
+			object-fit: contain;
 		}
 		.js{
 			width: 6cm;
 			height: 3cm;
+			aspect-ratio: 3/2;
+			object-fit: contain;
 
 		}
